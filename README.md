@@ -3,4 +3,4 @@ just another repository
 
 Hi friends
 Aslı here, ı'm extremly new in coding.
-ı've pets which is bunnies.
+ı've pet which is a cute bunny.
